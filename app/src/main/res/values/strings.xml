@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_current_food">CurrentFoodActivity</string>
+
+    <string-array name="category">
+        <item>Роллы</item>
+        <item>Суши</item>
+        <item>Наборы</item>
+        <item>Горячие блюда</item>
+        <item>Супы</item>
+        <item>Десерты</item>
+    </string-array>
+</resources>
